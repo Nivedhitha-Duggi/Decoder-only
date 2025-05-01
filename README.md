@@ -52,4 +52,18 @@ For each question:
 
 ---
 
+##  How to Run
+
+1. Clone this repo and open in Colab or Jupyter Notebook.
+2. Upload your `training_data.csv` and `human_ranked.csv`.
+3. Run the corresponding notebook (`GPT_Neo_125M.ipynb`, `distillgpt.ipynb`, or `tinygpt.ipynb`).
+4. Fine-tuned models and predictions will be saved automatically.
+
+---
+
+##  Contact
+
+Feel free to connect or reach out for questions or collaborations.
+
+
 
